@@ -1,7 +1,8 @@
-**My Health Meter🩺** 
+**Health Meter🩺** 
 
 **💻Overview**
-**My Health Meter** is a simple, interactive web-based tool developed using HTML, CSS, and JavaScript. It helps users calculate their **Body Mass Index (BMI)**, 
+
+**Health Meter** is a simple, interactive web-based tool developed using HTML, CSS, and JavaScript. It helps users calculate their **Body Mass Index (BMI)**, 
 determine their ideal **daily calorie intake**, and estimate their **recommended water consumption** based on personal inputs such as age, gender, height, weight, and fitness goal.
 
 **🎯 Features**
